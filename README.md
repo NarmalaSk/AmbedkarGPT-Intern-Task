@@ -10,6 +10,7 @@ Python v3.8
 Ollama Mistral Model
 HuggingFace all-MiniLM-L6-v2 
 
+
 ### Setup and Installation
 Clone Repository
 ```
