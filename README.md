@@ -5,10 +5,11 @@ A Simple Rag Pipeline Using Langchain and chromavectordb , Ollama ,HuggingFace E
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/411326fc-68ff-4691-856b-d1c3286c87cd" />
 
 ### Prequesites
-
+```
 Python v3.8
 Ollama Mistral Model
-HuggingFace all-MiniLM-L6-v2 
+HuggingFace all-MiniLM-L6-v2
+```
 
 
 ### Setup and Installation
