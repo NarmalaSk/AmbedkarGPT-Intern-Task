@@ -34,6 +34,11 @@ ollama pull mistral
 python3 main.py LLM_query text_file
 ```
 
+### References
+
+I have worked Mostly on data chunking Using Semantic chunking which would be more precise but the speech is small so continued with CharacterTextsplitter 
+This blog helped a lot: [Advanced Chunking Strategies](https://mer.vin/2024/03/chunking-strategy/)
+
 
 
 
