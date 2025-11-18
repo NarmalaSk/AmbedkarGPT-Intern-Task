@@ -7,7 +7,7 @@ Python v3.8
 Ollama Mistral Model
 HuggingFace all-MiniLM-L6-v2 
 
-##### Setup and Installation
+### Setup and Installation
 Clone Repository
 ```
 git clone https://github.com/NarmalaSk/AmbedkarGPT-Intern-Task.git
