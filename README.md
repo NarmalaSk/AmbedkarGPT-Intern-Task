@@ -2,7 +2,7 @@
 A Simple Rag Pipeline Using Langchain and chromavectordb , Ollama ,HuggingFace Embedding Models
 
 ### Architecture
-<img width="864" height="702" alt="image" src="https://github.com/user-attachments/assets/411326fc-68ff-4691-856b-d1c3286c87cd" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/411326fc-68ff-4691-856b-d1c3286c87cd" />
 
 ### Prequesites
 
