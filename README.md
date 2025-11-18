@@ -33,9 +33,7 @@ ollama pull mistral
 ```
 python3 main.py LLM_query text_file
 ```
-<img width="637" height="78" alt="image" src="https://github.com/user-attachments/assets/b4bda154-ef62-45da-956e-b2b2c37f1302" />
 
-<img width="1459" height="121" alt="image" src="https://github.com/user-attachments/assets/c8d67b90-1663-455d-845f-c2999a4de424" />
 
 
 
