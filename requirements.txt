@@ -1,3 +1,6 @@
 langchain
-chromadb
+langchain-chroma
 ollama
+langchain-community
+langchain-ollama
+chromadb
